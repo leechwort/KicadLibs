@@ -1,0 +1,2 @@
+# KicadLibs
+My kicad library
